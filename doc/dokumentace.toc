@@ -1,0 +1,10 @@
+\select@language {czech}
+\contentsline {section}{\numberline {1}Teorie \IeC {\'u}toku}{2}
+\contentsline {subsection}{\numberline {1.1}Princip \IeC {\'u}toku}{2}
+\contentsline {subsection}{\numberline {1.2}Zprost\IeC {\v r}edkov\IeC {\'a}n\IeC {\'\i } \IeC {\'u}toku}{2}
+\contentsline {section}{\numberline {2}Implementace}{3}
+\contentsline {subsection}{\numberline {2.1}Soubory aplikace}{3}
+\contentsline {subsection}{\numberline {2.2}Posloupnost akc\IeC {\'\i }}{3}
+\contentsline {section}{\numberline {3}Demonstrace \IeC {\v c}innosti}{5}
+\contentsline {subsection}{\numberline {3.1}Spu\IeC {\v s}t\IeC {\v e}n\IeC {\'\i } aplikace}{5}
+\contentsline {subsection}{\numberline {3.2}\IeC {\'U}tok na malou dom\IeC {\'a}c\IeC {\'\i } s\IeC {\'\i }\IeC {\v t}}{5}
